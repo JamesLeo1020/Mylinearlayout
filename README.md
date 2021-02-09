@@ -1,5 +1,6 @@
 #Jawabsoal
-#Berikan penjelasan dari perbedaan linear layout, relative layout, dan constrain layout.
+
+Berikan penjelasan dari perbedaan linear layout, relative layout, dan constrain layout.
 Linear Layout adalah jenis layout dimana user menempatkan 1 objek per baris atau kolom secara sejajar. Jadi di dalam setiap baris atau kolom hanya ada 1 objek 
 yang bisa ditempatkan . Linear Layout ini ada dua jenis . Yaitu :
 Linear Layout Vertical (Objek per baris/kesamping) 
