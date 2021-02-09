@@ -1,12 +1,5 @@
-# Mylinearlayout
-![Alt Text](https://github.com/leo-chan1020/Mylinearlayout/blob/master/Mylinearlayout.jpg)
-# MyRelativeLayout
-![Alt Text](https://github.com/leo-chan1020/Mylinearlayout/blob/master/MyRelativeLayout.jpg)
-# MyIntent
-![Alt Text](https://github.com/leo-chan1020/MyIntent/blob/master/1MyIntent.jpg)
-![Alt Text](https://github.com/leo-chan1020/MyIntent/blob/master/2MyIntent.jpg)
-
-#Berikan penjelasan dari perbedaan linear layout, relative layout, dan constrain layout.
+#Jawabsoal
+Berikan penjelasan dari perbedaan linear layout, relative layout, dan constrain layout.
 Linear Layout adalah jenis layout dimana user menempatkan 1 objek per baris atau kolom secara sejajar. Jadi di dalam setiap baris atau kolom hanya ada 1 objek 
 yang bisa ditempatkan . Linear Layout ini ada dua jenis . Yaitu :
 Linear Layout Vertical (Objek per baris/kesamping) 
@@ -36,3 +29,13 @@ Sistem akan memanggil metode ini sebagai indikasi pertama bahwa pengguna meningg
 hal ini menunjukkan bahwa aktivitas tidak lagi di latar depan (meskipun mungkin masih terlihat jika pengguna berada dalam mode multi-jendela). 
 Gunakan metode onPause() untuk menjeda atau menyesuaikan operasi yang tidak boleh dilanjutkan (atau harus dilanjutkan dalam jumlah sedang) sementara Activity 
 berada dalam status Dijeda, dan Anda berharap untuk segera melanjutkan. Ada beberapa alasan mengapa suatu aktivitas dapat memasuki status ini.
+
+# Mylinearlayout
+![Alt Text](https://github.com/leo-chan1020/Mylinearlayout/blob/master/Mylinearlayout.jpg)
+
+# MyRelativeLayout
+![Alt Text](https://github.com/leo-chan1020/Mylinearlayout/blob/master/MyRelativeLayout.jpg)
+
+# MyIntent
+![Alt Text](https://github.com/leo-chan1020/MyIntent/blob/master/1MyIntent.jpg)
+![Alt Text](https://github.com/leo-chan1020/MyIntent/blob/master/2MyIntent.jpg)
